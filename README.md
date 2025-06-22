@@ -3,7 +3,7 @@
 This is a **responsive image gallery** built using **HTML** and **CSS**. The layout displays a collection of images in a visually appealing grid format, making it a great practice project for learning modern CSS layout techniques like Flexbox or Grid.
 
 ### 🔗 Live Website 
-👉 [Visit Now]()
+👉 [Visit Now](https://karthikeyan-hue.github.io/Image-Gallery/)
 
 ### 🔧 Technologies Used
 
